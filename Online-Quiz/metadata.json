@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Platform with Leaderboard",
+  "description": "An interactive, gamified quiz platform with multiple categories, live timers, score tracking, real-time leaderboard updates, achievement badges, and comprehensive profile analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
