@@ -47,8 +47,8 @@ Quiz Arena Pro is a premium, responsive, desktop-first educational trivia battle
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-github-repo-url>
-   cd quiz-arena-pro
+   git clone https://github.com/shaik-asif967/Quiz-Platform-with-Leaderboard.git
+   cd Quiz-Platform-with-Leaderboard
    ```
 
 2. **Install Frontend Dependencies:**
